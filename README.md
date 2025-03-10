@@ -1,4 +1,5 @@
 # php-oop-guide
+![PHP OOP](https://github.com/AkramBl01/php-oop-guide/blob/main/OOPConcepts.png)
 ## 📌 OOP in PHP
 
 Welcome to the **Object-Oriented Programming (OOP) in PHP** guide! This document covers fundamental OOP principles with practical examples in PHP. Whether you're a beginner or looking to refresh your knowledge, this guide will help you master OOP concepts efficiently.
